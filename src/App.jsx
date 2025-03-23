@@ -1,5 +1,6 @@
 import React from "react";
 import Sidebar from "./Componenets/Sidebar";
+import Player from "./Componenets/Player";
 
 const App = () => {
   return (
